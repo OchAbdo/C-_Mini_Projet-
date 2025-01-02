@@ -1,0 +1,2 @@
+C:\Users\ochab\Desktop\c#\Mini-projet\GestionCabinet\BLL_P\obj\Release\BLL_P.csproj.AssemblyReference.cache
+C:\Users\ochab\Desktop\c#\Mini-projet\GestionCabinet\BLL_P\obj\Release\BLL_P.csproj.CoreCompileInputs.cache

@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ochab\\Desktop\\c#\\Mini-projet\\GestionCabinet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB2C6CD-6B4A-4DE5-96E8-FDA355025F92}|GestionCabinet\\GestionCabinet.csproj|c:\\users\\ochab\\desktop\\c#\\mini-projet\\gestioncabinet\\gestioncabinet\\ajoutchien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB2C6CD-6B4A-4DE5-96E8-FDA355025F92}|GestionCabinet\\GestionCabinet.csproj|solutionrelative:gestioncabinet\\ajoutchien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB2C6CD-6B4A-4DE5-96E8-FDA355025F92}|GestionCabinet\\GestionCabinet.csproj|c:\\users\\ochab\\desktop\\c#\\mini-projet\\gestioncabinet\\gestioncabinet\\ajoutchien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2DB2C6CD-6B4A-4DE5-96E8-FDA355025F92}|GestionCabinet\\GestionCabinet.csproj|solutionrelative:gestioncabinet\\ajoutchien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB2C6CD-6B4A-4DE5-96E8-FDA355025F92}|GestionCabinet\\GestionCabinet.csproj|c:\\users\\ochab\\desktop\\c#\\mini-projet\\gestioncabinet\\gestioncabinet\\ajoutchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB2C6CD-6B4A-4DE5-96E8-FDA355025F92}|GestionCabinet\\GestionCabinet.csproj|solutionrelative:gestioncabinet\\ajoutchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB2C6CD-6B4A-4DE5-96E8-FDA355025F92}|GestionCabinet\\GestionCabinet.csproj|c:\\users\\ochab\\desktop\\c#\\mini-projet\\gestioncabinet\\gestioncabinet\\ajoutchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2DB2C6CD-6B4A-4DE5-96E8-FDA355025F92}|GestionCabinet\\GestionCabinet.csproj|solutionrelative:gestioncabinet\\ajoutchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AjoutChien.cs",
+              "DocumentMoniker": "C:\\Users\\ochab\\Desktop\\c#\\Mini-projet\\GestionCabinet\\GestionCabinet\\AjoutChien.cs",
+              "RelativeDocumentMoniker": "GestionCabinet\\AjoutChien.cs",
+              "ToolTip": "C:\\Users\\ochab\\Desktop\\c#\\Mini-projet\\GestionCabinet\\GestionCabinet\\AjoutChien.cs",
+              "RelativeToolTip": "GestionCabinet\\AjoutChien.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAIwE8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T07:05:50.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AjoutChien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ochab\\Desktop\\c#\\Mini-projet\\GestionCabinet\\GestionCabinet\\AjoutChien.cs",
+              "RelativeDocumentMoniker": "GestionCabinet\\AjoutChien.cs",
+              "ToolTip": "C:\\Users\\ochab\\Desktop\\c#\\Mini-projet\\GestionCabinet\\GestionCabinet\\AjoutChien.cs [Design]",
+              "RelativeToolTip": "GestionCabinet\\AjoutChien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T07:05:45.165Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AjoutChat.cs",
+              "DocumentMoniker": "C:\\Users\\ochab\\Desktop\\c#\\Mini-projet\\GestionCabinet\\GestionCabinet\\AjoutChat.cs",
+              "RelativeDocumentMoniker": "GestionCabinet\\AjoutChat.cs",
+              "ToolTip": "C:\\Users\\ochab\\Desktop\\c#\\Mini-projet\\GestionCabinet\\GestionCabinet\\AjoutChat.cs",
+              "RelativeToolTip": "GestionCabinet\\AjoutChat.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwEYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T06:35:15.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AjoutChat.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ochab\\Desktop\\c#\\Mini-projet\\GestionCabinet\\GestionCabinet\\AjoutChat.cs",
+              "RelativeDocumentMoniker": "GestionCabinet\\AjoutChat.cs",
+              "ToolTip": "C:\\Users\\ochab\\Desktop\\c#\\Mini-projet\\GestionCabinet\\GestionCabinet\\AjoutChat.cs [Design]",
+              "RelativeToolTip": "GestionCabinet\\AjoutChat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T06:35:13.403Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

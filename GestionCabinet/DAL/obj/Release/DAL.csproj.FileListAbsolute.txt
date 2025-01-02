@@ -1,0 +1,2 @@
+C:\Users\ochab\Desktop\c#\Mini-projet\GestionCabinet\DAL\obj\Release\DAL.csproj.AssemblyReference.cache
+C:\Users\ochab\Desktop\c#\Mini-projet\GestionCabinet\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
